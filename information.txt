@@ -1,15 +1,1 @@
-display flex - deixar os itens lado a lado
 
-max-width - define a largura maxima de um elemento
-
-
-
-css
-linha 19 - **max-width 960px**, não vai expandir alem disso;
-linha 20 - &&margin auto** para deixar no centro
-linha 25 - deixar em uma coluna apenas;
-linha 26 - mudar o tamanho do container para deixar imagem centralizada;
-linha 56 - quero que pegue de ponta a ponta;
-linha 58 - deixar o item no centro;
-linha 62 - ul ficar no lado direito;
-linha 63 - ficar um lado do outro;
